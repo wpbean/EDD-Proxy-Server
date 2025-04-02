@@ -1,2 +1,5 @@
 node_modules/
 server.js
+node_error.log
+node_output.log
+package-lock.json
